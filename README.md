@@ -1,5 +1,7 @@
 # HelloJS - Get Slack
 
+![](https://hellojs-tw.github.io/git-101/img/hellojs.png)
+
 ![](./img/get slack.png)
 
 ## 內容簡介
@@ -7,15 +9,9 @@ slack 是很多公司愛用的內部溝通軟體，除了可以每個專案各�
 
 ## 讓我們開始吧
 
-![](./img/main.jpg)
+- [Slack 傳送門](https://slack.com/)
 
-### 左邊功能
-
-![](./img/left.jpg)
-
-### 右邊功能
-
-![](./img/right.jpg)
+- [進入教材](./tutorial.md)
 
 ## 參考資料
 [揭密！Slack是如何成為史上成長最快的SaaS應用？](https://www.bnext.com.tw/article/38949/BN-2016-03-16-170754-178)
