@@ -2,7 +2,7 @@
 
 ## 課程簡報
 
-[簡報傳送門](https://www.slideshare.net/trunk-studio/hellojs-get-slack)
+- [簡報傳送門](https://www.slideshare.net/trunk-studio/hellojs-get-slack)
 
 ## 優點在於
 
