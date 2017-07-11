@@ -1,5 +1,9 @@
 # HelloJS - Get Slack
 
+## 課程簡報
+
+[簡報傳送門](https://www.slideshare.net/trunk-studio/hellojs-get-slack)
+
 ## 優點在於
 
 - 非常用軟體，能跟私人環境切割
